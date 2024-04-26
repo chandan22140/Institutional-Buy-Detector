@@ -51,7 +51,7 @@ This Python script scrapes data from the Nepal Stock Exchange website to extract
 
 ## Author
 
-[Your Name]
+Chandan Sah
 
 ## License
 
