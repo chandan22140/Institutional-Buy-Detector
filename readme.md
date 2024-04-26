@@ -31,7 +31,7 @@ This Python script scrapes data from the Nepal Stock Exchange website to extract
     pip install -r requirements.txt
     ```
 
-3. Download and install Chrome WebDriver from [here](https://sites.google.com/a/chromium.org/chromedriver/downloads).
+3. Download and install Chrome WebDriver from [here](https://googlechromelabs.github.io/chrome-for-testing/).
 
 ## Usage
 
